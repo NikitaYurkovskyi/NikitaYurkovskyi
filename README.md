@@ -1,4 +1,4 @@
-[![Header](https://github.com/arheoloog/nikitayurkovskyi/blob/main/assets/header.png)](https://github.com/arheoloog)
+[![Header](https://github.com/arheoloog/nikitayurkovskyi/blob/main/assets/Header.png)](https://github.com/arheoloog)
 
 About me:
 
