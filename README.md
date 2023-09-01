@@ -13,4 +13,4 @@
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style-for-the-badge&logo=Instagram&logoColor=B4068E)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style-for-the-badge&logo=Linkedin&logoColor=007BB6)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita&show_icons=true&theme=radical)
